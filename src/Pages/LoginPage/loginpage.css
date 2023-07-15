@@ -1,0 +1,48 @@
+.Text-sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    flex: 2;
+}
+.boxing{
+    flex: 1;
+}
+.Text-sec .box1 h5{
+    color: #696F79;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 38px; /* 190% */
+}
+.superscene{
+    background-image: url(../../../public/assets/images/superscene.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 336px;
+    height: 400px;
+    flex-shrink: 0;
+    margin: 20px auto;
+    /* margin-top: 20px; */
+}
+
+.text h2{
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.text h5{
+    color: #8692A6;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 155.556% */
+}
