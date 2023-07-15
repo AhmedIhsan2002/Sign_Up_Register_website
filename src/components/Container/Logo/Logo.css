@@ -1,0 +1,16 @@
+
+.Logo h3{
+color: #1565D8;
+font-family: Righteous;
+font-size: 35px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.Logo{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    margin-top: 40px;
+}
